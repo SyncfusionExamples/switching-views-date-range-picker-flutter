@@ -43,7 +43,7 @@ leading: PopupMenuButton<String>(
   },
 ),
 ```
-Step 3:
+## Step 3:
 Place the calendar inside the body of the Scaffold widget.
 
 ```xml
