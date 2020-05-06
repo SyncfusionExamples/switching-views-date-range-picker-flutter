@@ -58,7 +58,7 @@ body: Card(
 
 **Screenshots**
 
-![](http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img1.png)
-![](http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img2.png)
-![](http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img3.png)
-![](http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img4.png)
+<img alt="month" src="http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img1.png" width="250" height="250" />|
+<img alt="year" src="http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img2.png" width="250" height="250" />|
+<img alt="decade" src="http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img3.png" width="250" height="250" />|
+<img alt="century" src="http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img4.png" width="250" height="250" />|
