@@ -54,3 +54,11 @@ body: Card(
   ),
 )
 ```
+**[View document in Syncfusion Flutter Knowledge base](https://www.syncfusion.com/kb/11305/how-to-switch-between-the-date-range-picker-views-in-flutter-date-range-picker)**
+
+**Screenshots**
+
+<img alt="month" src="http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img1.png" width="230" height="400" />|
+<img alt="year" src="http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img2.png" width="230" height="400" />|
+<img alt="decade" src="http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img3.png" width="230" height="400" />|
+<img alt="century" src="http://www.syncfusion.com/uploads/user/kb/flut/flut-852/flut-852_img4.png" width="230" height="400" />|
