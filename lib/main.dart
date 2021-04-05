@@ -8,7 +8,7 @@ class PickerView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false ,
+      debugShowCheckedModeBanner: false,
       home: CalendarPickerView(),
     );
   }
@@ -19,17 +19,9 @@ class CalendarPickerView extends StatefulWidget {
   _CalendarPickerViewState createState() => _CalendarPickerViewState();
 }
 
-List<String> views = <String>['Month', 'Year', 'Decade', 'Century'];
-
 class _CalendarPickerViewState extends State<CalendarPickerView> {
-  DateRangePickerController _controller;
-
-  @override
-  void initState() {
-    // TODO: implement initState
-    _controller = DateRangePickerController();
-    super.initState();
-  }
+  final DateRangePickerController _controller = DateRangePickerController();
+  final List<String> views = <String>['Month', 'Year', 'Decade', 'Century'];
 
   @override
   Widget build(BuildContext context) {
