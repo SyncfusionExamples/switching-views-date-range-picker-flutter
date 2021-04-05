@@ -3,17 +3,10 @@
 In the flutter date range picker, you can navigate between the picker views. Switching between picker views has been achieved using the `view` property of DateRangePickerController and tapping the header of the picker views.
 
 ## Step 1:
-In initState(), initialize the controller for date range picker.
+Inside the state, initialize the controller for date range picker.
 
 ```xml
-DateRangePickerController _controller;
- 
-@override
-void initState() {
-  // TODO: implement initState
-  _controller = DateRangePickerController();
-  super.initState();
-}
+final DateRangePickerController _controller = DateRangePickerController();
 ```
  
 
